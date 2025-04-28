@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Visitor", "Visitor\Visitor.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Visitor.Exercise", "Visitor.Exercise\Visitor.Exercise.csproj", "{9F3CAD87-91D1-468C-A334-D48AEE19504D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Strategy", "Strategy\Strategy.csproj", "{EA2FB310-3161-4DBF-AED6-0180ECBB632C}"
+EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -44,5 +46,17 @@ Global
 		{9F3CAD87-91D1-468C-A334-D48AEE19504D}.Release|x64.Build.0 = Release|Any CPU
 		{9F3CAD87-91D1-468C-A334-D48AEE19504D}.Release|x86.ActiveCfg = Release|Any CPU
 		{9F3CAD87-91D1-468C-A334-D48AEE19504D}.Release|x86.Build.0 = Release|Any CPU
+		{EA2FB310-3161-4DBF-AED6-0180ECBB632C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA2FB310-3161-4DBF-AED6-0180ECBB632C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA2FB310-3161-4DBF-AED6-0180ECBB632C}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{EA2FB310-3161-4DBF-AED6-0180ECBB632C}.Debug|x64.Build.0 = Debug|Any CPU
+		{EA2FB310-3161-4DBF-AED6-0180ECBB632C}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{EA2FB310-3161-4DBF-AED6-0180ECBB632C}.Debug|x86.Build.0 = Debug|Any CPU
+		{EA2FB310-3161-4DBF-AED6-0180ECBB632C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA2FB310-3161-4DBF-AED6-0180ECBB632C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA2FB310-3161-4DBF-AED6-0180ECBB632C}.Release|x64.ActiveCfg = Release|Any CPU
+		{EA2FB310-3161-4DBF-AED6-0180ECBB632C}.Release|x64.Build.0 = Release|Any CPU
+		{EA2FB310-3161-4DBF-AED6-0180ECBB632C}.Release|x86.ActiveCfg = Release|Any CPU
+		{EA2FB310-3161-4DBF-AED6-0180ECBB632C}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
